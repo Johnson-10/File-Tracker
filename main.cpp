@@ -5,7 +5,7 @@
 
     Nao verifica a pastas somente files e a quantidade de bytes existentes
 
-    
+1
 
 
 */
